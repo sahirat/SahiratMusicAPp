@@ -8,6 +8,4 @@ this is my Music App which is maintained using React js , Material UI and Hooks 
 
 Hosted link: https://sahiratmusicapp.netlify.app
 
-### Please open an issue for any bugs
-### Please support me on patreon 
 
